@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantgaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="sushantgaikwad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sushant_gs" target="blank"><img src="https://img.shields.io/twitter/follow/sushant_gs?logo=twitter&style=for-the-badge" alt="sushant_gs" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sushant_gs" target="blank"><img src="https://img.shields.io/twitter/follow/sushant_gs?logo=twitter&style=for-the-badge" alt="sushant_gs" /></a> </p> -->
 
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
 
